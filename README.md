@@ -1,6 +1,8 @@
 Upvoid Miner
 ===========
 
+eine kleine test änderung
+
 Upvoid Miner is a techdemo game to showcase the capabilities of the [Upvoid Engine](http://upvoid.com/about) and to provide a starting point for other developers interested in using the engine.
 
 The game is currently in closed alpha. If you are interested in testing it, you can apply for an alpha key [here](https://upvoid.com/miner/about/).
