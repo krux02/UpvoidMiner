@@ -4,6 +4,7 @@ Upvoid Miner
 eine kleine test änderung
 
 änderung 1
+änderung 2
 
 Upvoid Miner is a techdemo game to showcase the capabilities of the [Upvoid Engine](http://upvoid.com/about) and to provide a starting point for other developers interested in using the engine.
 
